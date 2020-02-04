@@ -2,20 +2,17 @@
 learning vue
 ## 首页
 <!-- 图片 -->
-![img1](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg "首页")
+![img1](https://github.com/w1013522624/Vue1/blob/master/static/img/home.gif "首页")
 
 
 
 
 ## 城市选择页
-![img2](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg "城市选择页")
+![img2](https://github.com/w1013522624/Vue1/blob/master/static/img/city.gif "城市选择页")
 
 
 ## 详情页
-![img3](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg "详情页")
+![img3](https://github.com/w1013522624/Vue1/blob/master/static/img/detail.gif "详情页")
 
 
 
