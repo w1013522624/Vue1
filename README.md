@@ -28,13 +28,18 @@ npm run dev
 ```
 - 运行此项目
 
+页面展示
+--------
+![首页](https://github.com/w1013522624/Vue1/blob/master/static/img/home1.png)
+![首页](https://github.com/w1013522624/Vue1/blob/master/static/img/city1.png)
+![首页](https://github.com/w1013522624/Vue1/blob/master/static/img/detail1.png)
+
 功能演示
 --------
 
 - 首页
 
 ![首页](https://github.com/w1013522624/Vue1/blob/master/static/img/home.gif)
-
 
 - 城市选择页
 
